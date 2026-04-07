@@ -1,0 +1,4 @@
+task_id,title,priority,status,due_date
+8f3d2e1a,Setup Sphinx for Analytics,CRITICAL,OPEN,2026-04-10
+b7c4a1d9,Refactor SQL for Politiken,HIGH,COMPLETED,2026-04-05
+k2m5n8p0,Update Saxo Mapping,MEDIUM,OPEN,2026-04-15
